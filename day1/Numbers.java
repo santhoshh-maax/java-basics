@@ -7,7 +7,7 @@ import java.util.Scanner;
 class Numbers{
      public static void main(String args[]){
         String name = "santhosh";
-        long num = 9342437215L;
+        long num = 1234567890L;
         System.out.println("this is "+name+"'s phone number:📱"+num);
         System.out.println("----------------------------------------------");
         float num1 = 4.6f;
