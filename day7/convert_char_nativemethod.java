@@ -7,8 +7,8 @@ public class convert_char_nativemethod {
 		//Scanner san = new Scanner(System.in);
 		
 		char ch = 'c';
-		int  ch1 = (char)ch-32;
-		System.out.println((char)ch1);
+		int  ch1 = (char)ch;
+		System.out.println(ch1);
 		
 
 	}

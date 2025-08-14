@@ -9,10 +9,10 @@ public class Colors {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner san =  new Scanner(System.in);
         String w = san.nextLine();
-        if(w == "RED"){
+        if(w.equals("RED")){
             System.out.println("The Chromatic Horizon reveals: It is Dusk");
         }
-        else if(w == "BLUE"){
+        else if(w.equals("BLUE")){
             System.out.println("The Chromatic Horizon whispers: It is Dawn");
         }
         else{
